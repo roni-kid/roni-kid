@@ -20,8 +20,8 @@
   <a href="https://github.com/roni-kid">
     <img src="https://img.shields.io/badge/GitHub-roni--kid-181717?style=flat&logo=github"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-baidooaaron@protonmail.com%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <a href="mailto:baidooaaron@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
