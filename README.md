@@ -1,11 +1,11 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Aaron!;Computer+Engineering+Student;AI+%26+Embedded+Systems+Builder;Multimedia+Producer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+RoniKid+here!;Computer+Engineering+Student;AI/ML;CyberSecurity" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:6C63FF,100:00E5FF&height=120&section=header&text=Aaron%20Kweku&fontSize=40&fontColor=E6E6E6&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:6C63FF,100:00E5FF&height=120&section=header&text=Aaron%20Baidoo&fontSize=43&fontColor=E6E6E6&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Aaron%20Kweku-0A66C2?style=flat&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/aaron-baidoo">
+    <img src="https://img.shields.io/badge/LinkedIn-Aaron%20Baidoo-0A66C2?style=flat&logo=linkedin"/>
   </a>
   <a href="https://github.com/roni-kid">
     <img src="https://img.shields.io/badge/GitHub-roni--kid-181717?style=flat&logo=github"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-yourmail%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-baidooaaron@protonmail.com%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -37,11 +37,13 @@
 ```text
 > booting profile...
 > student: computer engineering @ GCTU
-> interests: AI • embedded systems • multimedia production
-> status: building in public, one commit at a time 🚀
+> interests: AI • embedded systems • cybersecurity
+> status: Invest in Systems, They Control Events 🚀
 ```
 
-I'm a Computer Engineering student at GCTU with a hands-on approach to learning — I build projects, document them publicly, and ship things that work. My work spans AI/ML, Arduino & embedded systems, Python tooling, and live AV production. Currently exploring local LLMs and AI agents.
+I am a technical specialist operating at the intersection of Cybersecurity, Machine Learning, and Hardware Engineering. 
+I am building a career as a Cybersecurity Specialist and Hardware Architect. I am driven by technical mastery and tactical execution. 
+I recently completed the Youth Arise Leadership Diary Training Programme (2025), ensuring that my technical capabilities are backed by strategic leadership and the ability to lead high-performance teams.
 
 ---
 
@@ -50,27 +52,27 @@ I'm a Computer Engineering student at GCTU with a hands-on approach to learning 
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,html,js&theme=dark" />
 </p>
 
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,linux,raspberrypi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,linux,kali,blender&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-ML%20%26%20LSTM-0B0F19?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=111827"/>
   <img src="https://img.shields.io/badge/YOLOv11-Object%20Detection-0B0F19?style=for-the-badge&logo=opencv&logoColor=00E5FF&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/AutoCAD-Engineering%20Drawing-0B0F19?style=for-the-badge&logo=autodesk&logoColor=0696D7&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/Blender-Interior%20Design-0B0F19?style=for-the-badge&logo=blender&logoColor=0696D7&labelColor=111827"/>
   <img src="https://img.shields.io/badge/OBS%20%2F%20vMix-Live%20Production-0B0F19?style=for-the-badge&logo=obsstudio&logoColor=6C63FF&labelColor=111827"/>
 </p>
 
 ## 🤝 Soft Skills
 
-* Public Documentation & LinkedIn Writing
+* Problem Solving
 * Hardware-Software Integration
-* Team Collaboration (Hackathons & ESA)
+* Team Collaboration (Hackathons)
 * Multimedia & AV Production
 
 ---
@@ -103,10 +105,10 @@ I'm a Computer Engineering student at GCTU with a hands-on approach to learning 
 
 # 🚀 Featured Projects
 
-## 💬 LmChat
+## 🧠 RK StudyMind
 
-**Description:** A Python-based chat interface for local LLMs — my strongest personal project, exploring on-device AI inference without cloud dependency.
-**Tech Stack:** `Python` • `Local LLMs` • `CustomTkinter`
+**Description:** A fully offline AI-powered study companion built with Python, Gradio, ChromaDB, and LM Studio. It runs entirely on your local machine — no API keys, no subscriptions, no internet required after setup..
+**Tech Stack:** `Python` • `Local LLMs` • `Gradio`
 
 ---
 
@@ -136,10 +138,10 @@ I'm a Computer Engineering student at GCTU with a hands-on approach to learning 
 # 📡 Contact
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:baidooaaron@protonmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/aaron-baidoo">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/roni-kid">
