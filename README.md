@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+RoniKid+here!;Computer+Engineering+Student;AI/ML;CyberSecurity" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+RoniKid+here!;Computer+Engineering+Student;AI/ML;Embedded+Systems;CyberSecurity" />
 </p>
 
 <p align="center">
@@ -27,23 +27,18 @@
 
 ---
 
-## 🏆 GitHub Trophy
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=roni-kid&theme=algolia)
-
----
-
 # 👨🏽‍💻 About Me
 
 ```text
 > booting profile...
 > student: computer engineering @ GCTU
-> interests: AI • embedded systems • cybersecurity
+> interests: AI • programming • cybersecurity
 > status: Invest in Systems, They Control Events 🚀
 ```
 
-I am a technical specialist operating at the intersection of Cybersecurity, Machine Learning, and Hardware Engineering. 
-I am building a career as a Cybersecurity Specialist and Hardware Architect. I am driven by technical mastery and tactical execution. 
-I recently completed the Youth Arise Leadership Diary Training Programme (2025), ensuring that my technical capabilities are backed by strategic leadership and the ability to lead high-performance teams.
+I am a Computer Engineering student at Ghana Communication Technology University (GCTU). I work at the intersection of machine learning, embedded hardware, and cybersecurity, with a long-term focus on running AI models on small, resource-constrained devices. I learn by building small projects, competing in hackathons, and writing up what I make.
+
+I recently completed the Youth Arise Leadership Diary Training Programme (2025), which has shaped how I work with and lead teams.
 
 ---
 
@@ -52,19 +47,19 @@ I recently completed the Youth Arise Leadership Diary Training Programme (2025),
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,html,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,react,html,css,js&theme=dark" />
 </p>
 
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,linux,kali,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,tensorflow,linux,windows,docker,blender&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-ML%20%26%20LSTM-0B0F19?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=111827"/>
   <img src="https://img.shields.io/badge/YOLOv11-Object%20Detection-0B0F19?style=for-the-badge&logo=opencv&logoColor=00E5FF&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/Blender-Interior%20Design-0B0F19?style=for-the-badge&logo=blender&logoColor=0696D7&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/Blender-3D%20Modelling-0B0F19?style=for-the-badge&logo=blender&logoColor=0696D7&labelColor=111827"/>
   <img src="https://img.shields.io/badge/OBS%20%2F%20vMix-Live%20Production-0B0F19?style=for-the-badge&logo=obsstudio&logoColor=6C63FF&labelColor=111827"/>
 </p>
 
@@ -73,20 +68,30 @@ I recently completed the Youth Arise Leadership Diary Training Programme (2025),
 * Problem Solving
 * Hardware-Software Integration
 * Team Collaboration (Hackathons)
-* Multimedia & AV Production
+* Multimedia
+* Prompt Engineering
+* Artificial Intelligence
+
+---
+
+# 💼 Experience
+
+**Multimedia Producer (Part-time), Gethsemane Multimedia**
+→ Audio-visual and livestream production
 
 ---
 
 # 🏅 Achievements
 
-🏆 **LDTP 2025 Hackathon — Youth Arise Organisation**
+🏆 **LDTP 2025 Hackathon, Youth Arise Organisation**
 → 2nd Place · Tech Lead, Team TechPioneers
 
-🏆 **CodeAlpha AI Internship (2025)**
-→ Built multilingual translator, LSTM music generator & YOLOv11 tracker
+🏆 **VICODATHON, Certificate of Participation** 🎉
+→ I built RK Probe. It reads a candidate's real learning signals (what they skipped, what they only passed after multiple attempts, and what they nailed on the first try) and uses that to decide what to actually ask in a live conversational interview.
 
-🏆 **DecodeLabs Python Developer Internship — Batch 2026**
-→ Delivered calculator, expense tracker (claymorphism UI) & password generator
+🏆 **LogicHub and ESA Robotics Community: WIRE & CODE Hackathon** 💻🔌
+→ We built AegisVision, a dual-purpose security platform designed for laboratories, server rooms, and restricted halls. It combines hardware-level access tracking (RFID) with automated perimeter defense (ultrasonic sensing).
+→ By decoupling hardware control from web connectivity, the ESP32 operates as a low-power Bluetooth beacon and sensor controller. The system pairs directly with a standalone HTML/JavaScript dashboard via Bluetooth Serial. When an intrusion is detected during empty room states, the web dashboard acts as an edge gateway and dispatches an immediate SMS alert to room administrators using the mNotify Bulk SMS API.
 
 ---
 
@@ -105,24 +110,17 @@ I recently completed the Youth Arise Leadership Diary Training Programme (2025),
 
 # 🚀 Featured Projects
 
-## 🧠 RK StudyMind
+## 🧠 [RK StudyMind](https://github.com/roni-kid/RK-StudyMind)
 
-**Description:** A fully offline AI-powered study companion built with Python, Gradio, ChromaDB, and LM Studio. It runs entirely on your local machine — no API keys, no subscriptions, no internet required after setup..
+**Description:** A fully offline AI study companion built with Python, Gradio, ChromaDB, and LM Studio. It runs entirely on your local machine, with no API keys, no subscriptions, and no internet connection required after setup.
 **Tech Stack:** `Python` • `Local LLMs` • `Gradio`
 
 ---
 
-## 🕹️ Joystick LED Controller
+## 📄 [RK SwiFile](https://github.com/roni-kid/RK-SwiFile)
 
-**Description:** An Arduino UNO joystick-controlled LED system — my first published hardware project, fully documented on GitHub and LinkedIn.
-**Tech Stack:** `Arduino UNO` • `C++` • `Embedded C`
-
----
-
-## 🛍️ Customer Retail ML Comparison
-
-**Description:** Comparing Logistic Regression, Decision Tree, and KNN on the UCI Online Retail dataset to benchmark classical ML models.
-**Tech Stack:** `Python` • `scikit-learn` • `pandas`
+**Description:** An offline file conversion application. It runs a local FastAPI service, a React interface, and an optional pywebview desktop window. Files and job data stay on this device. Image captions use only LM Studio at `localhost:1234`.
+**Tech Stack:** `Python` • `FastAPI` • `React` • `pywebview` • `LM Studio`
 
 ---
 
