@@ -53,7 +53,7 @@ I recently completed the Youth Arise Leadership Diary Training Programme (2025),
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,tensorflow,linux,windows,docker,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,tensorflow,linux,windows,docker,blender,claude&theme=light" />
 </p>
 
 <p align="center">
